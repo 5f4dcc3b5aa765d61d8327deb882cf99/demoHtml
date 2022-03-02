@@ -1,5 +1,5 @@
 # demoHtml
-A Demo HTML Site from the Computing Fundamentals Course
+A Demonstration/demonstative HTML Site from the Computing Fundamentals Course
 
 # Author
 Dennis Devey
